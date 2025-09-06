@@ -1,4 +1,4 @@
-#Campus Event Management Platform
+# Campus Event Management Platform
 
 This project is a web-based application designed to help colleges and universities manage and promote on-campus events.
 The platform is built with a dual-role system, providing a robust interface for administrators to create, track, and analyze events, 
