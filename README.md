@@ -41,10 +41,10 @@ npm or yarn
 # Installation
 
 Clone the repository:
-git clone <https://github.com/DeekshithReddy04/webknot>
+git clone < https://github.com/DeekshithReddy04/webknot >
 
 Navigate to the project directory:
-cd <project>
+cd < project >
 
 Install the dependencies:
 npm install -g vite
@@ -56,7 +56,7 @@ yarn install
 
 Start the development server:
 npm run dev
-# or
+or
 yarn dev
 
 Open your browser and navigate to the address provided in the terminal (usually http://localhost:5173).
