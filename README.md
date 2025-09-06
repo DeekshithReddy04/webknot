@@ -41,4 +41,38 @@ npm or yarn
 Installation
 
 Clone the repository:
-git clone <>
+git clone <https://github.com/DeekshithReddy04/webknot>
+
+Navigate to the project directory:
+cd <project>
+
+Install the dependencies:
+npm install -g vite
+npm install
+or
+yarn install
+
+Running the Application
+
+Start the development server:
+npm run dev
+# or
+yarn dev
+
+Open your browser and navigate to the address provided in the terminal (usually http://localhost:5173).
+
+output Screenshots
+
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 234239" src="https://github.com/user-attachments/assets/2ba3a5a5-bbfd-46ea-bd30-2cc60864121e" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 234221" src="https://github.com/user-attachments/assets/89e78b96-72df-413f-8060-6f0759286f8b" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 234217" src="https://github.com/user-attachments/assets/999b396d-3708-4b7f-b1c9-58b3aed8230a" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 234211" src="https://github.com/user-attachments/assets/8fe052de-7851-4a22-b1d1-298aea1193c1" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 234204" src="https://github.com/user-attachments/assets/1c34fefc-fd62-46b7-a36c-a41177919bd1" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 234143" src="https://github.com/user-attachments/assets/8f658681-e000-42f9-84bc-854278a8b313" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 234127" src="https://github.com/user-attachments/assets/194411e0-362d-4ff7-8cc3-9dd1ad54368c" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-06 234116" src="https://github.com/user-attachments/assets/66cd6e73-dbb9-442a-8971-13384c2eb102" />
+
+
+
+
+
